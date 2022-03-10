@@ -26,6 +26,7 @@
     "cypress": "^9.5.1"
   },
   "dependencies": {
-    "cypress-plugin-tab": "^1.0.5"
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^1.6.2"
   }
 }
